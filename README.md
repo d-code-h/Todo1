@@ -2,4 +2,4 @@
 
 A simple Todo app for daily activities.
 
-link: 
+link: https://floatynote.herokuapp.com
